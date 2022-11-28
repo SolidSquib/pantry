@@ -29,7 +29,7 @@ workspace "Pantry"
 		"MultiProcessorCompile"
 	}
 
-	group("Project")
+	group("Application")
 		include "Pantry"
 
 	group("Engine")

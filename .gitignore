@@ -33,3 +33,6 @@
 *.vcxproj
 *.filters
 *.user
+intermediates
+bin
+*.sln

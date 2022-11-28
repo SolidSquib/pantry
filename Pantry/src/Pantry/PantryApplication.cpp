@@ -20,7 +20,6 @@ namespace Pantry
 	private:
 		Renaissance::WeakPtr<PantryLayer> mPantry;
 	};
-
 }
 
 namespace Renaissance
